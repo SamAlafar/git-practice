@@ -1,3 +1,0 @@
-Name: Sam 
-Age: 29
-Favourite color: light green
